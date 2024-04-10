@@ -1,0 +1,12 @@
+**/test_data
+**/__pycache__
+**/*.pyc
+**/*.ipynb
+**/*.mplstyle
+**/*.html
+**/*.csv
+data/
+functions/
+profiling_reports/
+341.ipynb
+README.MD

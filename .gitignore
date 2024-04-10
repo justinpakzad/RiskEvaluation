@@ -1,0 +1,10 @@
+.DS_Store
+**/__pycache__/
+**/.ipynb_checkpoints
+data/
+profiling_reports/
+deeplearning.mplstyle
+test.txt
+feature_tools.py
+test_data/
+xgb_final_model.joblib
